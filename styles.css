@@ -1,0 +1,73 @@
+ body{
+
+                background: url(pic/3333.jpg) no-repeat center center fixed;
+                background-size : cover;
+                -webkit-background-size:cover;
+                -moz-background-size: cover;
+                -o-background-size: cover;
+                background-size: cover;
+
+            }
+.squashimax{
+    position:absolute;
+    left 200px;
+    top 400px;
+}
+div{
+    height: 100px;
+}
+.a {position: relative;
+    left: 100px;
+    font-size: 100%;
+}
+.b {
+    position: relative;
+    left: 150px;
+    font-size: 130%;
+    }
+.c {
+    position: relative;
+    left: 200px;
+    font-size: 190%;
+}
+.d {
+    position: relative;
+    left: 300px;
+    font-size: 250%;
+
+}
+.ai{
+    position: relative;
+    left: -100px;
+    font-size: 100%;
+}
+.bi{
+    position: relative;
+    left: -150px;
+    font-size: 130%;
+}
+.ci{
+    position: relative;
+    left: -200px;
+    font-size: 190%;
+}
+.di{
+    position: relative;
+    left: -300px;
+    font-size: 250%;
+}
+h1 {
+    font-size: 300%;
+    color: black;
+    text-shadow: 3px 3px 2px white;
+    font-family: 'Orbitron', sans-serif;
+}
+font-family: 'Orbitron', sans-serif;
+font-family: 'Tangerine', cursive;
+font-family: 'Press Start 2P', cursive;
+.tad {
+    background: url(pic/4.png) no-repeat center center fixed;
+    background-size: cover;
+}
+
+
